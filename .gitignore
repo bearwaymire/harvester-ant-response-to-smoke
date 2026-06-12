@@ -1,0 +1,14 @@
+# macOS hidden files
+.DS_Store
+._*
+__MACOSX/
+
+# R / RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# temporary files
+*.tmp
+*.log
